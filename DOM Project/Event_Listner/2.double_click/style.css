@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button{
+    width: 20rem;
+    background-color: deeppink;
+    color: white;
+    padding: 25px 0;
+    font-size: 35px;
+    border: none;
+    border-radius: 10px;
+}
+
